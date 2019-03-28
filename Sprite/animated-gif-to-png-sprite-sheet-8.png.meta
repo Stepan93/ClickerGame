@@ -1,0 +1,1696 @@
+fileFormatVersion: 2
+guid: b0d20dbaf88eef0448fbc19c3c0a547f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animated-gif-to-png-sprite-sheet-8_0
+    21300002: animated-gif-to-png-sprite-sheet-8_1
+    21300004: animated-gif-to-png-sprite-sheet-8_2
+    21300006: animated-gif-to-png-sprite-sheet-8_3
+    21300008: animated-gif-to-png-sprite-sheet-8_4
+    21300010: animated-gif-to-png-sprite-sheet-8_5
+    21300012: animated-gif-to-png-sprite-sheet-8_6
+    21300014: animated-gif-to-png-sprite-sheet-8_7
+    21300016: animated-gif-to-png-sprite-sheet-8_8
+    21300018: animated-gif-to-png-sprite-sheet-8_9
+    21300020: animated-gif-to-png-sprite-sheet-8_10
+    21300022: animated-gif-to-png-sprite-sheet-8_11
+    21300024: animated-gif-to-png-sprite-sheet-8_12
+    21300026: animated-gif-to-png-sprite-sheet-8_13
+    21300028: animated-gif-to-png-sprite-sheet-8_14
+    21300030: animated-gif-to-png-sprite-sheet-8_15
+    21300032: animated-gif-to-png-sprite-sheet-8_16
+    21300034: animated-gif-to-png-sprite-sheet-8_17
+    21300036: animated-gif-to-png-sprite-sheet-8_18
+    21300038: animated-gif-to-png-sprite-sheet-8_19
+    21300040: animated-gif-to-png-sprite-sheet-8_20
+    21300042: animated-gif-to-png-sprite-sheet-8_21
+    21300044: animated-gif-to-png-sprite-sheet-8_22
+    21300046: animated-gif-to-png-sprite-sheet-8_23
+    21300048: animated-gif-to-png-sprite-sheet-8_24
+    21300050: animated-gif-to-png-sprite-sheet-8_25
+    21300052: animated-gif-to-png-sprite-sheet-8_26
+    21300054: animated-gif-to-png-sprite-sheet-8_27
+    21300056: animated-gif-to-png-sprite-sheet-8_28
+    21300058: animated-gif-to-png-sprite-sheet-8_29
+    21300060: animated-gif-to-png-sprite-sheet-8_30
+    21300062: animated-gif-to-png-sprite-sheet-8_31
+    21300064: animated-gif-to-png-sprite-sheet-8_32
+    21300066: animated-gif-to-png-sprite-sheet-8_33
+    21300068: animated-gif-to-png-sprite-sheet-8_34
+    21300070: animated-gif-to-png-sprite-sheet-8_35
+    21300072: animated-gif-to-png-sprite-sheet-8_36
+    21300074: animated-gif-to-png-sprite-sheet-8_37
+    21300076: animated-gif-to-png-sprite-sheet-8_38
+    21300078: animated-gif-to-png-sprite-sheet-8_39
+    21300080: animated-gif-to-png-sprite-sheet-8_40
+    21300082: animated-gif-to-png-sprite-sheet-8_41
+    21300084: animated-gif-to-png-sprite-sheet-8_42
+    21300086: animated-gif-to-png-sprite-sheet-8_43
+    21300088: animated-gif-to-png-sprite-sheet-8_44
+    21300090: animated-gif-to-png-sprite-sheet-8_45
+    21300092: animated-gif-to-png-sprite-sheet-8_46
+    21300094: animated-gif-to-png-sprite-sheet-8_47
+    21300096: animated-gif-to-png-sprite-sheet-8_48
+    21300098: animated-gif-to-png-sprite-sheet-8_49
+    21300100: animated-gif-to-png-sprite-sheet-8_50
+    21300102: animated-gif-to-png-sprite-sheet-8_51
+    21300104: animated-gif-to-png-sprite-sheet-8_52
+    21300106: animated-gif-to-png-sprite-sheet-8_53
+    21300108: animated-gif-to-png-sprite-sheet-8_54
+    21300110: animated-gif-to-png-sprite-sheet-8_55
+    21300112: animated-gif-to-png-sprite-sheet-8_56
+    21300114: animated-gif-to-png-sprite-sheet-8_57
+    21300116: animated-gif-to-png-sprite-sheet-8_58
+    21300118: animated-gif-to-png-sprite-sheet-8_59
+    21300120: animated-gif-to-png-sprite-sheet-8_60
+    21300122: animated-gif-to-png-sprite-sheet-8_61
+    21300124: animated-gif-to-png-sprite-sheet-8_62
+    21300126: animated-gif-to-png-sprite-sheet-8_63
+    21300128: animated-gif-to-png-sprite-sheet-8_64
+    21300130: animated-gif-to-png-sprite-sheet-8_65
+    21300132: animated-gif-to-png-sprite-sheet-8_66
+    21300134: animated-gif-to-png-sprite-sheet-8_67
+    21300136: animated-gif-to-png-sprite-sheet-8_68
+    21300138: animated-gif-to-png-sprite-sheet-8_69
+    21300140: animated-gif-to-png-sprite-sheet-8_70
+    21300142: animated-gif-to-png-sprite-sheet-8_71
+    21300144: animated-gif-to-png-sprite-sheet-8_72
+    21300146: animated-gif-to-png-sprite-sheet-8_73
+    21300148: animated-gif-to-png-sprite-sheet-8_74
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_0
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 972
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacb798bfb303e340bf63a542d67e7f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 967
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c88419d359337140a01b640072d1427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 878
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f9ad46f025c55438a94d1c124b9dc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 922
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6673a6bdd241029478b2465e24c2855f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 945
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4509af79b1b47ef44a8313afdf866abb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_5
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 945
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3d297dc80b58c45a8668d77b0f99b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 878
+        width: 107
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72bc3bec85d38448ddde2ac73ee866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 924
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601d1d7616061d747a64ffc694a24fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 905
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9fd3ab5053c6b4d96c8c290b0894d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 905
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aa96fe324d9534783c98333d33803c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 840
+        width: 76
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a5faf703cde9545a2ad0030ecdc2fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 800
+        width: 138
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef899091ce2b9548b7666ea22a99520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 876
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe784d4521abd3e4eb3d97fde5e0534d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_13
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 876
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad567d2a49f45754caa60aec36063b60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 828
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16375803c052a0b43a684343c6d7ee19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 829
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daa743af450dac48b47ab98768fc00b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 827
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30058be5c5898844fbdca216a0b3ef84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 749
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689e6b814862c44488606d607bd43303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 830
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30812c7133b18ad4c9e78df71e6c1681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 834
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8746e1d428d33cd439e7433a4fadc2b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 744
+        width: 153
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb194cb754c914b8e5544300f0ba92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 828
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab959bc97db840f4cb900dc15619865e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 748
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4970f253d22884995680b9d31e2c49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 820
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93970abd83655a429a4e4467324d1ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 783
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52df0412d37155b42affa9ec45a98693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 781
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242f4192be512ff468033669398df54d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 704
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22ac14a623016b48bad877763405ea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 704
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66d61fcd674487429ccf519be5035e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 684
+        width: 132
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ef00762e37c314693c11b54f8a664a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_29
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 604
+        width: 142
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe1b360cbf59f46ad92b8be1d7df57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 646
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851be54831671ad459101e2449c30a0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 646
+        width: 78
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885ac3270289f864d99faf6772dfedb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 643
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fb20be5224bcf4f82e9d54a180a914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_33
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 643
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ae78f71e5ff84f8055f301317e2b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_34
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 679
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d80bcd54d7c4b47ac8e90df2eaad9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_35
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 676
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a4a7045073eff4aa1abb7aa060cd07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 614
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e07cfe52b933c74bbd8e7946df854af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 604
+        width: 100
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bda5969f04ab54b978799a07fad852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 478
+        width: 83
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d8dbbdb241954282eb6b7cee528e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 594
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0567c63432bc114d9184c9c2fb01a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 588
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f67bd3e43e5419499f20ab41f6d488c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 520
+        width: 148
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d29759cda7b3954e807c9be82a1ae66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 481
+        width: 67
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858b8c8a0d1f66449ac8bd64d7b31fd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecd49b0dcbdaaf41a7232cbf6dce90a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a600ea3eba94424a968293c29e6d84e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_45
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 488
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ca0ae7cc74e5c4da9e026e1be0f488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_46
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 512
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235fa6f298d56824fa7fa1aeb71f8bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_47
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 440
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cc523d62564034f9b5a8b26dea2878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 414
+        width: 141
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe536dea7f77f549b611567b9674888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_49
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 334
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920d02ff2d4b5cf4c8e6b2b183437c1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 364
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81292d68b9742e548ac42c599b101b0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_51
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 344
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76aab9476e08264c957d5b2cb9de9e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 343
+        width: 148
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc33ba64b5860498597d04506004c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 203
+        width: 188
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17adca532f7d4a498b2ca5377f07369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 245
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece5c88d7e2a58247bb78f6872d274f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 224
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da6536cdef0704b8e6a47822d93e4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_56
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aa5fd3e8e58be4ebc8c815c3284f76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_57
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 282
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c5f9fdaa260cd4ba673efd04a5e21f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_58
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 234
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c19ce5041792340bc0d0042c6afe44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 207
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4669205e702e744795b39b0625c3928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 160
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114dcd9c7a9bccd49bbacf442287f6fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_61
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 80
+        width: 108
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0523559b8a28a43b25fe500f9e4232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_62
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 127
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9f82390d62026468924c52c3acfff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_63
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 127
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9170a1c6854ba074695adea0b966f5ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 136
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cf2c18a60d9ec4f8583b18948216c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_65
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 136
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bef8fc75ceca848b515df1c1f94430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_66
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 82
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf353c37078ac241b5be60a45231597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_67
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 22
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8490bbd7a27d343b5aa3298901279d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_68
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 22
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa6f5f55d0f43144a539436373a57b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_69
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 20
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659c0c4fd7331f945973a2afa46f7b57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_70
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 16
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f42c7d8ff38cb44aed650bc37a89af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 77
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d35d401c4defc44b872b3630212d4dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_72
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 40
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d644dcd193aa147aa5794b83fc9988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_73
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 35
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b094ab65da926e14583427c4b790a4c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated-gif-to-png-sprite-sheet-8_74
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 35
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d5744f1c2e01c4bbc2099bab1f9234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 25d12a0fb5918784fad5afc1ed833870
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
